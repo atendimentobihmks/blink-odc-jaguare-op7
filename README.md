@@ -9,7 +9,7 @@ Link na Bio de Alta Conversão, Mobile-First e Alta Performance desenvolvido par
 * **Endereço:** R. Engenheiro Vitor Freire, 465 • Jaguaré, São Paulo/SP
 * **WhatsApp:** (11) 97713-8206 (`5511977138206`)
 * **Instagram:** https://www.instagram.com/odontocompany.jaguare/
-* **Facebook:** https://www.facebook.com/odontocompany.jaguare/
+* **Facebook:** https://www.facebook.com/profile.php?id=100090767356292
 * **Horário:** Seg-Sex (08:30 - 19:00) | Sáb (08:30 - 13:00)
 
 ---

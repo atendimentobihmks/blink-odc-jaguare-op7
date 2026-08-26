@@ -1,8 +1,8 @@
 # Segurança, Privacidade e Conformidade LGPD
 
-## Unidade: OdontoCompany Itaquá
-* **Responsável Técnico:** Dra. Stefanni Trifico Garcia (CRO-SP 134552)
-* **Endereço:** Estrada dos Índios, 811A, Vila Itaquassu, Itaquaquecetuba/SP - CEP 08588-000
+## Unidade: OdontoCompany Jaguaré
+* **Responsável Técnico:** Dra. Renata Brandão Cardoso (CRO-SP 135409)
+* **Endereço:** R. Engenheiro Vitor Freire, 465, Jaguaré, São Paulo/SP - CEP 05332-000
 * **Data de Implementação:** Agosto de 2026
 
 ---
